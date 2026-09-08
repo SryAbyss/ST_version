@@ -1,10 +1,7 @@
 {
   "versionCode": 21,
-  "versionName": "2.1",
-  "force": false,
-  "minVersionCode": 16,
+  "minVersionCode": 20,
   "title": "发现新版本",
-  "message": "全新 UI、新关卡「阳光和你都在」「亡灵·彼岸」等。",
   "androidUrl": "https://www.123865.com/s/uUjfvd-smHs3",
   "pcUrl": "https://www.123865.com/s/uUjfvd-smHs3"
 }
