@@ -1,5 +1,6 @@
 {
   "minVersionCode": "2.1",
   "androidUrl": "https://chinadlrs.com/app/59",
-  "pcUrl": "https://chinadlrs.com/app/59"
+  "pcUrl": "https://chinadlrs.com/app/59",
+  "forceQuit": true
 }
